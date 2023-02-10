@@ -1,0 +1,23 @@
+{
+  "name": "super-duper-happiness",
+  "version": "1.0.0",
+  "description": "This repo is going to be used for my journey learning how to build web scrapers and crawlers. Everything should be configured correctly between my terminal and the github cloud.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dogs-Egregore/super-duper-happiness.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dogs-Egregore/super-duper-happiness/issues"
+  },
+  "homepage": "https://github.com/Dogs-Egregore/super-duper-happiness#readme",
+  "dependencies": {
+    "puppeteer": "^19.6.3"
+  }
+}
