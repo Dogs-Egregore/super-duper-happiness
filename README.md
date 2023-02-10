@@ -1,2 +1,2 @@
 # super-duper-happiness
-This repo is going to be used for my journey learning how to build web scrapers and crawlers. For now I am just making sure everthing is configured correctly between my terminal and the github cloud.
+This repo is going to be used for my journey learning how to build web scrapers and crawlers. For now I am just making sure everthing is configured correctly between my terminal and the github cloud...
