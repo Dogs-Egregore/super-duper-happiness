@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Dogs-Egregore/super-duper-happiness#readme",
   "dependencies": {
-    "puppeteer": "^19.6.3"
+    "puppeteer": "^19.7.2"
   }
 }
